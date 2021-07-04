@@ -1,3 +1,4 @@
+Narul Bhai k Nanim bhai bolar karone sorry bolte hoise 
 ## git/github guide: Karl's minimal tutorial
 
 All statistical/computational scientists should use
